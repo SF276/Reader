@@ -1,0 +1,16 @@
+# Claude Code working directories
+.claude/
+
+# Build artifacts
+*.pdx/
+build/
+*.dylib
+*.elf
+*.bin
+*.so
+*.dll
+*.map
+*.lst
+
+# macOS
+.DS_Store

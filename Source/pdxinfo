@@ -1,0 +1,7 @@
+name=Reader
+author=Daniel
+description=An e-reader for the Playdate.
+bundleID=com.ri604.reader
+version=0.1
+buildNumber=1
+imagePath=
