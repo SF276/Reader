@@ -14,3 +14,7 @@ build/
 
 # macOS
 .DS_Store
+
+# EPUB source files (not committed; convert to JSON with epub2json.py)
+fledgling.epub
+Kraken Calling.epub
